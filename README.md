@@ -1,6 +1,7 @@
 # Wireless MQTT Digital Display using ESP8266 & OLED
 
-![Project Demo](https://i.imgur.com/2X8T690.png)
+![Project Demo](![Uploading MQTT.png…]()
+)
 
 A simple yet powerful project to create a wireless digital message board. This project uses an **ESP8266** microcontroller to connect to a Wi-Fi network, subscribe to an **MQTT** topic, and display any messages it receives on a crisp **OLED screen**.
 
