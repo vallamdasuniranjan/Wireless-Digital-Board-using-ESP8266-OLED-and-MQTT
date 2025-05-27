@@ -87,6 +87,10 @@ Once the code is uploaded and the ESP8266 is running, it will automatically conn
 4.  Click **Publish**. The text will instantly appear on your OLED screen!
 
 ---
+5.  **Results/output:**
+![2](https://github.com/user-attachments/assets/487df6a9-dcc1-4028-8af6-334bfab7313e)
+![3](https://github.com/user-attachments/assets/7109e40a-cb32-4934-a45a-5539676f0131)
+![4](https://github.com/user-attachments/assets/45de0861-cc4f-4320-9e6a-ffafc9c9bab1)
 
 ## 🔧 Troubleshooting
 
